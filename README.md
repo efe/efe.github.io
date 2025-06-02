@@ -1,6 +1,6 @@
 # Personal Blog
 
-My personal blog which lives in [efe.me](https://efe.me).
+My personal blog which lives in [efe.me](https://efe.me)
 
 ## Astro.js Commands
 
