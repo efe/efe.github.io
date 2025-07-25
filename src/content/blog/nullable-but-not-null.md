@@ -2,6 +2,7 @@
 title: "Nullable but not null"
 publishedAt: '2025-07-25'
 category: 'django'
+isFeatured: true
 ---
 
 When working on backend applications, especially those with evolving database schemas, it's common to see a recurring pattern:
