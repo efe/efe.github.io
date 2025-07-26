@@ -2,6 +2,7 @@
 title: "Turkish Language, Browsers and Punycode"
 publishedAt: '2024-04-20'
 isFeatured: true
+hackernews_item_id: 40117820
 ---
 
 [The Turkish alphabet](https://wikipedia.org/wiki/Turkish_alphabet) has been a version of the Latin alphabet for almost a hundred years thanks to the [Turkish alphabet reform](https://en.wikipedia.org/wiki/Turkish_alphabet_reform). There are two main differences between the Turkish and English alphabets.

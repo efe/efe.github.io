@@ -23,6 +23,7 @@ const blog = defineCollection({
 		tags: z.array(z.string()).default([]),
 		seo: seoSchema.optional(),
 		draft: z.boolean().default(false),
+		hackernews_item_id: z.number().optional(),
 	}),
 });
 

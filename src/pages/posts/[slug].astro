@@ -51,13 +51,20 @@ const { Content } = await post.render();
   <article class="prose prose-invert pb-10 animate-slide-from-down-and-fade-4 my-8">
     <Content />
   </article>
+  <div class="flex w-full items-center justify-center  my-6  animate-slide-from-down-and-fade-4">
+    <span class="w-8 bg-secondaryDarker h-[1px] rounded-full"></span>
+  </div>
   <div class="flex justify-center items-center text-sm max-w-[650px] animate-slide-from-down-and-fade-3">
     <span class="text-secondaryDark">
       Published: {reformatDate(post.data.publishedAt)}
     </span>
   </div>
-  <div class="flex w-full items-center justify-center  my-6  animate-slide-from-down-and-fade-4">
-    <span class="w-8 bg-secondaryDarker h-[1px] rounded-full"></span>
-  </div>
+  {post.data.hackernews_item_id && (
+    <div class="flex justify-center items-center text-sm max-w-[650px] animate-slide-from-down-and-fade-3">
+      <span class="text-secondaryDark">
+        <br>Comment and read more on <a href={`https://news.ycombinator.com/item?id=${post.data.hackernews_item_id}`} target="_blank"><strong>Hacker News</strong></a>.
+      </span>
+    </div>
+  )}
 </div>
 </BaseLayout>

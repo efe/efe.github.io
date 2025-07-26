@@ -3,6 +3,7 @@ title: "Prizes at Work"
 publishedAt: '2025-03-17'
 category: 'company-culture'
 isFeatured: true
+hackernews_item_id: 43391192
 ---
 
 Some companies offer prizes like a bluetooth speakers, mechanical keyboards to employees who complete certain tasks or projects. At first, this might seem like a fun and harmless way to motivate people. But when you look deeper, it raises an important question: **why do employees need extra rewards to do their jobs?**

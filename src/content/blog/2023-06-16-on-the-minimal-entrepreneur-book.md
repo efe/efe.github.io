@@ -3,6 +3,7 @@ title: "On The Minimalist Entrepreneur book"
 image: /images/posts/the-minimalist-entrepreneur-book/cover.jpeg
 publishedAt: '2023-06-16'
 category: 'book'
+hackernews_item_id: 36379303
 ---
 I'm always coming up with side project ideas. As a product-minded developer, I strive to understand the flow of everyday applications and generate new ideas. I envision prototypes in my mind, create their basic flow, and even purchase domains for them. However, I have never successfully turned any of these side projects into revenue-generating ventures. Consequently, they all end up languishing in my “side-projects list”. 
 

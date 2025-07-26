@@ -3,6 +3,7 @@ title: "The Interview"
 publishedAt: '2025-03-12'
 category: 'company-culture'
 isFeatured: true
+hackernews_item_id: 43344617
 ---
 
 What interview question tells you if someone will pick up a teammate when they’re down? When you think of company culture, is it just the pool table in the breakroom, or is it something more?
