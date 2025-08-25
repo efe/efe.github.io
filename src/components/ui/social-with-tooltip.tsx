@@ -20,7 +20,7 @@ const SocialTooltip = () => (
 							href={social.link}
 							target="_blank"
 							className="cursor-pointer"
-							rel="noreferrer"
+							rel="me"
 						>
 							{social.icon}
 						</a>

@@ -2,7 +2,7 @@ import { DiscordIcon } from "@/components/icons/discord";
 import { GithubIcon } from "@/components/icons/github";
 import { LinkedInIcon } from "@/components/icons/linkedin";
 import { TwitchIcon } from "@/components/icons/twitch";
-import { XIcon } from "@/components/icons/x";
+import { MastodonIcon } from "@/components/icons/mastodon";
 import { YouTubeIcon } from "@/components/icons/youtube";
 import type React from "react";
 
@@ -65,9 +65,9 @@ export const CONFIG: SiteConfig = {
 			icon: <LinkedInIcon />,
 		},
 		{
-			platform: "X",
-			link: "https://x.com/efeoge",
-			icon: <XIcon />,
+			platform: "Mastodon",
+			link: "https://mastodon.social/@efeoge",
+			icon: <MastodonIcon />,
 		},
 		{
 			platform: "YouTube",
