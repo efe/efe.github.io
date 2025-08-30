@@ -7,4 +7,4 @@ Making your Django app work in multiple languages might sound daunting, but it d
 
 I presented this topic as “Multilingual Django Applications with a sprinkle of AI” at [PyCon Greece 2025](https://pretalx.com/pycongr25/talk/AV8QYF/), held in Athens on August 30, 2025. 
 
-I’ll also be sharing the PDF slides after the talk.
+The PDF slides are available [here](https://efe.me/pdfs/multilingual-django-applications-with-a%20sprinkle-of-ai-pycon-greece-2025.pdf).
