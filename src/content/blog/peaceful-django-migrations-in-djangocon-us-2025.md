@@ -10,4 +10,4 @@ category: 'conference-talks'
 
 I'll present this topic as “Peaceful Django Migrations” at [DjangoConUS 2025](https://2025.djangocon.us/talks/peaceful-django-migrations/), held in Chicago on September 8, 2025. 
 
-The PDF slides will available be here.
+The PDF slides are available [here](https://efe.me/pdfs/peaceful-django-migrations-djangocon-us-2025.pdf).
