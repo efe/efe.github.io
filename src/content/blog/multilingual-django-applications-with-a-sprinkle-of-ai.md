@@ -1,5 +1,5 @@
 ---
-title: "Multilingual Django Applications with a sprinkle of AI"
+title: "Multilingual Django Applications with a sprinkle of AI in PyCon Greece 2025"
 publishedAt: '2025-08-30'
 category: 'conference-talks'
 ---
