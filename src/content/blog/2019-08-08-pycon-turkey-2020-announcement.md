@@ -1,5 +1,5 @@
 ---
-title: "PyCon Turkey 2020 Announcement"
+title: "PyCon Turkey 2020 Announcement in EuroPython 2019"
 publishedAt: '2019-07-08'
 category: 'conference-talks'
 ---
