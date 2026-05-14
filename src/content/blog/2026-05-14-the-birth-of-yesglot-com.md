@@ -3,6 +3,7 @@ title: "The birth of yesglot.com"
 publishedAt: '2026-05-14'
 category: 'founder'
 isFeatured: true
+hackernews_item_id: 48141778
 ---
 
 > The villagers counted reasons. <br>
@@ -147,7 +148,7 @@ I've been building example repositories to show what Yesglot can do. For React, 
 
 ## What is going to happen to the open source package?
 
-People kept confusing [yesglot.com](https://yesglot.com) with the open source package. So, I decided to rename the package as [dj-translatemessages](https://gitub.com/efe/dj-translatemessages). It will keep doing what it does well, making translations simple and accessible for small teams. I've been building with Django for years, yesglot.com itself runs on Django, and I'm a member of the Django Software Foundation. Maintaining this package is my way of giving something back to the community that helped me get here. If **dj-translatemessages** covers your needs, that's great. But if you're looking for a more autonomous workflow without touching your pipeline, yesglot.com is always there. As an improvement, Support for django-modeltranslations is coming soon.
+People kept confusing [yesglot.com](https://yesglot.com) with the open source package. So, I decided to rename the package as [dj-translatemessages](https://github.com/efe/dj-translatemessages). It will keep doing what it does well, making translations simple and accessible for small teams. I've been building with Django for years, yesglot.com itself runs on Django, and I'm a member of the Django Software Foundation. Maintaining this package is my way of giving something back to the community that helped me get here. If **dj-translatemessages** covers your needs, that's great. But if you're looking for a more autonomous workflow without touching your pipeline, yesglot.com is always there. As an improvement, [Support for django-modeltranslations](https://github.com/efe/dj-translatemessages/issues/10) is coming soon.
 
 ## In Summary
 
