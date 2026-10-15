@@ -6,7 +6,7 @@ isFeatured: true
 ---
 On October 2nd, I gave a talk at [Django Day Copenhagen 2026](https://2026.djangoday.dk/) about **Keeping secrets secret in Django**. It was my second time attending Django Day Copenhagen, but this time I was also on stage!
 
-The idea for the talk came while I was working on django-root-secret, a small package I built to simplify managing secrets in Django projects. The idea behind the package actually goes back to my days at Hipo.
+The idea for the talk came while I was working on [django-root-secret](https://github.com/efe/django-root-secret), a small package I built to simplify managing secrets in Django projects. The idea behind the package actually goes back to my days at Hipo.
 
 I started researching how Django uses `SECRET_KEY` internally while developing the package. I've been using Django for years, and I had a rough idea that it was used for cryptographic signing, but I didn't know exactly how it worked or where Django relied on it.
 
