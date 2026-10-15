@@ -2,7 +2,7 @@
 title: "Djangoday Copenhagen 2024 and Copenhagen"
 publishedAt: '2024-11-13'
 category: 'django'
-isFeatured: true
+isFeatured: false
 ---
 
 I had been in Copenhagen for a long weekend for the [Djangoday Copenhagen 2024](https://2024.djangoday.dk/).
